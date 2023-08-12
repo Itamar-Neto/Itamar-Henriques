@@ -45,7 +45,7 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 ## Contatos:
 
 <div style="display: inline-block;" >
-<a href="https://www.linkedin.com/in/itamar-henriques/" target="_blank"> <img alt="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"></a> 
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/itamar-henriques/" > <img alt="Linkedin" height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"></a> 
 <a target="_blank" rel="noreferrer" href="https://discord.com/users/itamar_henriques#3181"><img alt="Discord" height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"></a>
 <a target="_blank" rel="noreferrer" href="http://www.instagram.com/itamar._.henriques"><img alt="Instagram" height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"></a>
 <a target="_blank" rel="noreferrer" href="mailto:itamar.henriques.r@gmail.com?subject=Contato pelo Github"><img alt="G-mail" width="31" height="31" src="https://img.icons8.com/color/31/gmail--v1.png" /></a>
