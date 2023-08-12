@@ -1,3 +1,9 @@
+<div style="display: flex; justify-content: space-between; position:relative;">
+<img  src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/182ab44d-9124-45d9-b5c3-92f09e990c7c" width="100" height="100"/>
+<img  src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/5507bf79-02cb-4d15-aa14-f085f271fe30" width="100" height="100"/>
+</div>
+
+<div style="padding:0 50px; ">
 Olá seja bem vindo! 🫡
 
 Me chamo Itamar Henriques,
@@ -8,7 +14,12 @@ Sou um Desenvolvedor Front-end 🧑🏻‍💻.
 * 🌍  Moro em:  Conselheiro Lafaiete - MG
 * 🌱  Estou aprendendo: Desenvolvimento Front-end, Algoritmos e Lógica de programação.
 
+
+
 ## Sobre mim
+
+<details>
+  <summary>Ver mais...</summary>
 
 Meu nome é Itamar Henriques, tenho 20 anos e sou natural de Santana dos Montes. 
 
@@ -23,6 +34,8 @@ No momento, estou focado em adquirir conhecimentos fundamentais para o desenvolv
 Estou confiante e determinado a seguir um caminho promissor na área de tecnologia. Acredito que posso criar experiências de alta qualidade e soluções criativas para enfrentar desafios complexos, sempre abordando os problemas com cuidado e buscando as melhores soluções possíveis.
 
 Compartilho da crença de que trocar ideias e soluções é essencial para nossa evolução. Estou decidido a aprender mais a cada dia em minha jornada como desenvolvedor e, no futuro, desejo ensinar e orientar iniciantes com base no que estou aprendendo atualmente.
+</details>
+
 
 ## Ferramentas e Tecnologias
 <div style="display: inline-block;" >
@@ -47,7 +60,13 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 
 
 ## My GitHub Stats
-<div style="display: inline-block;" >
+<div style="display: flex; justify-content: space-between;" >
 <a href="http://www.github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api?username=Itamar-Henriques&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itamar-Henriques's GitHub stats" /></a>
-<a href="https://github.com/Itamar-Henriques" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Henriques&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Henriques&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+<img  src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/dc2836f4-e260-4c75-932f-a97cae2b928b" width="100" height="100"/>
+<img  src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/8ea5d016-4ca0-4037-9ed2-c7a90525df0c" width="100" height="100"/>
 </div>
