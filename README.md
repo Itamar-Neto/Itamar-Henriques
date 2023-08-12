@@ -39,6 +39,8 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 <img alt="Photoshop" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width= "40" height= "40"/>
 <img alt="Illustrator" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width= "40" height= "40"/>
 <img alt="Figma" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width= "40" height= "40"/>
+  <img alt="UIverse" src="https://uiverse.io/build/_assets/logo-OR7QQX33.svg" width= "80" height= "40"/>
+  
 </div>
 
 
