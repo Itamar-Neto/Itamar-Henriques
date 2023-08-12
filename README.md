@@ -39,6 +39,7 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 <img alt="Photoshop" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width= "40" height= "40"/>
 <img alt="Illustrator" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width= "40" height= "40"/>
 <img alt="Figma" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width= "40" height= "40"/>
+  <img alt="Netlify" src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/2f42ca23-d5e5-4e5b-b415-61121aaba1a1" width= "45" height= "40"/>
   <img alt="UIverse" src="https://uiverse.io/build/_assets/logo-OR7QQX33.svg" width= "80" height= "40"/>
   
 </div>
@@ -56,7 +57,7 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 
 
 ## My GitHub Stats
-<div style="display: flex; justify-content: space-between;" >
+<div>
 <a href="http://www.github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api?username=Itamar-Henriques&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itamar-Henriques's GitHub stats" /></a>
 <a href="https://github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Henriques&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
