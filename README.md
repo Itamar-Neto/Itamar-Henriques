@@ -3,7 +3,7 @@
 Me chamo Itamar Henriques,
 ==================================
 
-Sou um Desenvolvedor Front-end 🧑🏻‍💻.
+Sou um Desenvolvedor <em>Front-end</em> 🧑🏻‍💻.
 ------------------------------
 * 🌍  Moro em:  Conselheiro Lafaiete - MG
 * 🌱  Estou aprendendo: Desenvolvimento Front-end, Algoritmos e Lógica de programação.
