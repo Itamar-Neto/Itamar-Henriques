@@ -33,15 +33,14 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 
 ## Ferramentas e Tecnologias
 <div style="display: inline-block;" >
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40" height= "40"/> 
 <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "40" height= "40"/>
+<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 <img alt="Photoshop" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width= "40" height= "40"/>
 <img alt="Illustrator" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width= "40" height= "40"/>
 <img alt="Figma" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width= "40" height= "40"/>
-  <img alt="Netlify" src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/2f42ca23-d5e5-4e5b-b415-61121aaba1a1" width= "45" height= "40"/>
-  <img alt="UIverse" src="https://uiverse.io/build/_assets/logo-OR7QQX33.svg" width= "80" height= "40"/>
-  
+<img alt="Netlify" src="https://github.com/Itamar-Henriques/Itamar-Henriques/assets/111620308/2f42ca23-d5e5-4e5b-b415-61121aaba1a1" width= "45" height= "40"/>
+<img alt="UIverse" src="https://uiverse.io/build/_assets/logo-OR7QQX33.svg" width= "80" height= "40"/>
 </div>
 
 
