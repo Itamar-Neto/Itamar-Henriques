@@ -15,7 +15,7 @@ Sou um Desenvolvedor <em>Front-end</em> 🧑🏻‍💻.
 <details>
   <summary>Ver mais...</summary>
 
-Meu nome é Itamar Henriques, tenho 20 anos e sou natural de Santana dos Montes. 
+Meu nome é Itamar Henriques, tenho 20 anos e sou natural de Santana dos Montes - MG. 
 
 Considero-me uma pessoa tranquila, competente, metódica e proativa.
 
