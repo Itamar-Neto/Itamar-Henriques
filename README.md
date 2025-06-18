@@ -60,6 +60,6 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 
 ## My GitHub Stats
 <div>
-<a href="http://www.github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api?username=Itamar-Henriques&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itamar-Henriques's GitHub stats" /></a>
-<a href="https://github.com/Itamar-Henriques"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Henriques&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+<a href="http://www.github.com/Itamar-Neto"><img src="https://github-readme-stats.vercel.app/api?username=Itamar-Neto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Itamar-Neto's GitHub stats" /></a>
+<a href="https://github.com/Itamar-Neto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itamar-Neto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>*/
