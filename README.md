@@ -12,21 +12,22 @@ Sou um Desenvolvedor <em>Front-end</em> 🧑🏻‍💻.
       * CSS
       * JavaScript
       * React   
-  
+
+  *  Desenvolvimento Back-end:</summary>
+      * C
+
 ## Sobre mim
 
 <details>
   <summary>Ver mais...</summary>
 
-Meu nome é Itamar Henriques, tenho 20 anos e sou natural de Santana dos Montes - MG. 
+Meu nome é Itamar Henriques, tenho 22 anos e sou natural de Santana dos Montes - MG. 
 
-Considero-me uma pessoa tranquila, competente, metódica e proativa.
-
-Tenho paixão por animes, leituras, cultura geek e, acima de tudo, pela programação. Desde minha infância, sempre tive o hábito de desmontar e remontar meus brinquedos e aparelhos eletrônicos, pois desejava compreender profundamente como funcionavam. Mesmo que muitas vezes eles não voltassem a funcionar, essa busca incessante por conhecimento sempre me instigou a entender os mecanismos por trás das coisas.
+Tenho paixão por animes, leituras, cultura geek e, acima de tudo, pela tecnologia. Desde minha infância, sempre tive o hábito de desmontar e remontar meus brinquedos e aparelhos eletrônicos, pois desejava compreender profundamente como funcionavam. Mesmo que muitas vezes eles não voltassem a funcionar, essa busca incessante por conhecimento sempre me instigou a entender os mecanismos por trás das coisas.
 
 Esse espírito curioso não mudou na vida adulta, pois estou sempre buscando aprimorar minhas habilidades e técnicas. Utilizo o Google como meu professor e o editor de código como meu caderno de anotações.
 
-No momento, estou focado em adquirir conhecimentos fundamentais para o desenvolvimento Front-end, com especial atenção para o aperfeiçoamento das habilidades em algoritmos e lógica de programação. Além disso, tenho planos de iniciar em breve uma graduação em Análise e Desenvolvimento de Sistemas (ADS).
+No momento, estou focado em adquirir conhecimentos fundamentais para o desenvolvimento Front-end e na linguagem C, com especial atenção para o aperfeiçoamento das habilidades em algoritmos e lógica de programação. Além disso, irei iniciar em breve uma graduação em Análise e Desenvolvimento de Sistemas (ADS).
 
 Estou confiante e determinado a seguir um caminho promissor na área de tecnologia. Acredito que posso criar experiências de alta qualidade e soluções criativas para enfrentar desafios complexos, sempre abordando os problemas com cuidado e buscando as melhores soluções possíveis.
 
@@ -39,6 +40,7 @@ Compartilho da crença de que trocar ideias e soluções é essencial para nossa
 <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "40" height= "40"/>
 <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "40" height= "40"/>
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+<img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>
 <img alt="Photoshop" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width= "40" height= "40"/>
 <img alt="Illustrator" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width= "40" height= "40"/>
 <img alt="Figma" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width= "40" height= "40"/>
